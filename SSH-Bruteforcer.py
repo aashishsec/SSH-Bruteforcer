@@ -31,7 +31,7 @@ def banner():
           
         Author   : Aashish💕💕  
                                               
-        Github   : https://github.com/aashish36
+        Github   : https://github.com/aashishsec
           
         SSH BruteForce is a tool designed to guess the correct password for the given username.
 ''')
